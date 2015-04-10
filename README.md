@@ -1,6 +1,6 @@
-##ESSE REPOSITÓRIO FOI CRIADO COMO PARTE DO CURSO DE GIT DA COD EDUCATION##
+###ESSE REPOSITÓRIO FOI CRIADO COMO PARTE DO CURSO DE GIT DA COD EDUCATION###
 
-###Passos dados para chegar no atual estágio do curso:###
+####Passos dados para chegar no atual estágio do curso:####
 
 1. Criar uma pasta no computador local.
 2. Executar o comando "git init" para que a pasta passe a se vesionada.
