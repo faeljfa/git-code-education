@@ -5,7 +5,7 @@
 
 
 //Criando um código qualquer no arquivo.
-$array = array("a"=>"a", "b"=>"b", "c"=>"c", "d"=>"d", "e"=>"e", "f"=>"f");
+$array = array("a"=>"a", "b"=>"b", "c"=>"c", "d"=>"d");
 
 foreach ($array as $chv=>$dado) {
     echo $chv . " - " . $dado."<br />";
