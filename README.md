@@ -7,5 +7,5 @@
 3. Criar o arquivo README.txt.
 4. Executar o comando "git add nome-do-arquivo" para fazer com que o arquivo comece a 
 ser observado pelo GIT.
-5. Executar o comando git commit -m""
-6. Fazer um push para o servidor. Para executar o comoando, deve-se digitar git push origin master
+5. Executar o comando git commit -m"".
+6. Fazer um push para o servidor. Para executar o comoando, deve-se digitar git push origin master.
