@@ -3,6 +3,7 @@
 #O formulário para o envio está disponível no item projeto fase 1 na seção
 #anterior.
 
+header("Content-Type: text/html; charset=UTF-8",true);
 
 //Criando um código qualquer no arquivo.
 $array = array("a"=>"a", "b"=>"b", "c"=>"c", "d"=>"d");
