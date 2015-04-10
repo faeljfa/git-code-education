@@ -1,5 +1,5 @@
 <?php
-$array = array("0"=>"a", "1"=>"b", "2"=>"c", "3"=>"d", "4"=>"e", "5"=>"f");
+$array = array("a", "b", "c", "d", "e", "f");
 
 foreach ($array as $chv=>$dado) {
     echo $chv . " - " . $dado."<br />";
